@@ -1,0 +1,84 @@
+*{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    cursor: pointer;
+}
+h1{
+    text-align: center;
+}
+      
+th, td {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+th{
+    background-color:	#0047AB;
+}
+.tok-1{
+    color: #fff;
+}
+.tok-2{
+    background-color: 	#B2BEB5;
+}
+.tok-2:hover{
+    background-color: yellow;
+}
+.tok-3{
+    background-color: #fff;
+}
+.tok-3:hover{
+    background-color: yellow;
+}
+.tok-4{
+    background-color: 	#B2BEB5;
+}
+.tok-4:hover{
+    background-color: yellow;
+}
+.tok-5{
+    background-color: #fff;
+}
+.tok-5:hover{
+    background-color: yellow;
+}
+.tok-6{
+    background-color: 	#B2BEB5;
+}
+.tok-6:hover{
+    background-color: yellow;
+}
+.tok-7{
+    background-color: #fff;
+}
+.tok-7:hover{
+    background-color: yellow;
+}
+.tok-8{
+    background-color: 	#B2BEB5;
+}
+.tok-8:hover{
+    background-color: yellow;
+}
+.tok-9{
+    background-color: #fff;
+}
+.tok-9:hover{
+    background-color: yellow;
+}
+.tok-10{
+    background-color: 	#B2BEB5;
+}
+.tok-10:hover{
+    background-color: yellow;
+}
+.tok-11{
+    background-color: #fff;
+}
+.tok-11:hover{
+    background-color: yellow;
+}
